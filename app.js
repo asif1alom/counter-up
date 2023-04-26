@@ -10,7 +10,7 @@ function counter() {
       current++;
       ctr.innerText = current;
     }
-  }, 1000);
+  }, 10);
 }
 
 counter();
